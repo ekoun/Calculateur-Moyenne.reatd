@@ -1,0 +1,88 @@
+Nous allons procéder à une réorganisation complète du site "MS – REATD" afin d'améliorer fortement l’UX (expérience utilisateur) et l’UI (design interface).
+
+⚠️ IMPORTANT : Respect strict de la structure demandée. Aucun élément ne doit être placé différemment.
+
+-------------------------------------
+1️⃣ STRUCTURE GÉNÉRALE
+-------------------------------------
+
+- Le site doit avoir un menu latéral professionnel (sidebar fixe à gauche).
+- Le logo "MS – REATD" doit être placé en haut du menu latéral.
+- La navigation doit être claire avec icônes modernes :
+  - ECUE
+  - UE
+  - Semestre
+  - Historique
+- Le contenu principal doit être à droite du menu latéral.
+- Design structuré en cartes modernes avec ombre légère.
+
+-------------------------------------
+2️⃣ DESIGN & IDENTITÉ VISUELLE
+-------------------------------------
+
+Palette obligatoire :
+- Violet profond / fuchsia : #9B2C9B
+- Vert moderne : #0E8F5A
+- Blanc : #FFFFFF
+
+Style :
+- Moderne
+- Digital
+- Académique
+- Professionnel
+- Minimaliste mais premium
+
+Les boutons doivent être élégants avec :
+- Coins arrondis
+- Animation hover fluide
+- Ombre légère
+
+-------------------------------------
+3️⃣ MODE SOMBRE (TRÈS IMPORTANT)
+-------------------------------------
+
+Le mode nuit doit être ergonomique et confortable pour les yeux.
+
+❌ Interdit :
+- Champs de saisie avec fond blanc lumineux en mode sombre.
+
+✅ Obligatoire :
+- Fond général sombre (#121212 ou #1E1E1E)
+- Champs de saisie gris foncé (#2A2A2A)
+- Texte blanc ou gris clair
+- Placeholder en gris doux
+- Boutons violet ou vert adaptés au dark mode
+
+Le contraste doit être accessible et agréable.
+
+-------------------------------------
+4️⃣ FORMULAIRE ECUE
+-------------------------------------
+
+Disposition obligatoire :
+
+- Titre de section
+- Liste des champs de notes de devoir
+- Bouton "Ajouter un devoir" placé EN DESSOUS des champs existants (jamais au-dessus)
+- Champ note d’examen
+- Bouton Calculer
+- Résultat affiché dans une carte moderne mise en évidence
+
+-------------------------------------
+5️⃣ EXPÉRIENCE UTILISATEUR
+-------------------------------------
+
+- Interface fluide
+- Calcul dynamique en temps réel
+- Responsive mobile
+- Espacements équilibrés
+- Hiérarchie visuelle claire
+- Design inspiré des applications SaaS modernes
+
+-------------------------------------
+
+Objectif final :
+Créer une interface premium, professionnelle, moderne et intuitive qui représente dignement la communauté REATD – UVCI.
+
+Le design ne doit pas être basique.
+Il doit inspirer confiance, sérieux académique et innovation digitale.
